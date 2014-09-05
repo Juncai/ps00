@@ -1,7 +1,30 @@
 Date  Who       Start Stop  Interruptions Question TimeOnTask    Comments
-8/31  JC		00:00	00:04				3 		4				Sign up for CS 5010 on piazza.com
-8/31  JC		00:10	00:21				1	 	10				Sign up for a CCIS account
-8/31  JC		00:21	00:35				5	 	14				Download and Install Racket on laptop	
-9/05  JC		08:04	08:10				6	 	6				get education discount for GitHub and create private repo for module00
-9/05  JC		08:58	09:01				6	 	3				clone the repo to local machine
-============committing to git: 9/05 09:03 ===================
+8/31  JC		00:00	00:04				setup	4				Sign up for CS 5010 on piazza.com
+8/31  JC		00:10	00:21				setup 	10				Sign up for a CCIS account
+8/31  JC		00:21	00:35				setup 	14				Download and Install Racket on laptop	
+9/04  JC		20:04	20:10				setup 	6				get education discount for GitHub and create private repo for module00
+9/04  JC		20:58	21:01				setup 	3				clone the repo to local machine
+============committing to git: 9/04 21:03 ===================
+9/04  JC		23:43	21:49				ps00	6				reading
+9/04  JC		23:49	23:59				ps00	10				Ex 1
+9/04  JC		23:59	00:03				ps00	4				Ex 2
+9/05  JC		00:03	00:05				ps00	2				reading
+9/05  JC		00:05	00:08				ps00	3				Ex 3
+9/05  JC		00:09	00:18				ps00	9				Ex 4
+9/05  JC		00:18	00:22				ps00	4				Ex 5
+9/05  JC		00:23	00:40	6			ps00	11				Ex 6
+9/05  JC		01:44	00:49				ps00	5				Ex 7
+9/05  JC		01:49	01:56				ps00	7				Ex 8
+9/05  JC		01:57	02:05				ps00	8				Ex 9
+9/05  JC		02:06	02:19				ps00	13				Ex 10
+============committing to git: 9/05 02:22 ===================
+
+
+
+
+
+[template]
+Total Time On Task setup (minutes)               37 
+Total Time On Task ps00 (minutes)                82 
+TOTsetup (hours and tenths)                      0.62 
+TOTps00 (hours and tenths)                       1.37
