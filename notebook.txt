@@ -1,0 +1,7 @@
+Date  Who       Start Stop  Interruptions Question TimeOnTask    Comments
+8/31  JC		00:00	00:04				3 		4				Sign up for CS 5010 on piazza.com
+8/31  JC		00:10	00:21				1	 	10				Sign up for a CCIS account
+8/31  JC		00:21	00:35				5	 	14				Download and Install Racket on laptop	
+9/05  JC		08:04	08:10				6	 	6				get education discount for GitHub and create private repo for module00
+9/05  JC		08:58	09:01				6	 	3				clone the repo to local machine
+============committing to git: 9/05 09:03 ===================
