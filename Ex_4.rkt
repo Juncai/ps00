@@ -9,11 +9,11 @@
 ; Examples:
 ; (tip 10 0.15)  => 1.5
 ; (tip 20 0.17)  => 3.4
-
-(define (tip bill per)
-  (if (or (< bill 0) (< per 0) (> per 1))
+; (tip 10 1.15)  => "invalid input"
+(define (tip b p)
+  (if (or (< b 0) (< p 0) (> p 1))
       "invalid input"
-      (* bill per)))
+      (* b p)))
 
 ; tests
 (tip 10 0.15)

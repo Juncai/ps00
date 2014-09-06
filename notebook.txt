@@ -18,6 +18,9 @@ Date  Who       Start Stop  Interruptions Question TimeOnTask    Comments
 9/05  JC		01:57	02:05				ps00	8				Ex 9
 9/05  JC		02:06	02:19				ps00	13				Ex 10
 ============committing to git: 9/05 02:22 ===================
+9/05  JC		06:21	06:29				ps00	8				Make some changes on Ex 6
+9/05  JC		21:30	22:02	5+15		ps00	12				Review the code and make some changes according to coding conventions
+============committing to git: 9/05 22:06 ===================
 
 
 
@@ -25,6 +28,6 @@ Date  Who       Start Stop  Interruptions Question TimeOnTask    Comments
 
 [template]
 Total Time On Task setup (minutes)               37 
-Total Time On Task ps00 (minutes)                82 
+Total Time On Task ps00 (minutes)                102 
 TOTsetup (hours and tenths)                      0.62 
-TOTps00 (hours and tenths)                       1.37
+TOTps00 (hours and tenths)                       1.7

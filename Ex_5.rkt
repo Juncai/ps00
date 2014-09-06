@@ -9,8 +9,8 @@
 ; (sq 5)  => 25
 ; (sq -4)  => 16
 
-(define (sq num)
-  (* num num))
+(define (sq n)
+  (* n n))
 
 ; tests
 (sq 5)

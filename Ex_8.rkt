@@ -13,7 +13,7 @@
 (define (circle-area r)
   (if (< r 0)
       "invalid input"
-      (* pi r r)))
+      (* pi (sqr r))))
 
 ; tests
 (circle-area 1)

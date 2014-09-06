@@ -11,9 +11,11 @@
 ; (quadratic-root 1 5 6)  => -2
 
 (define (quadratic-root a b c)
-  (/ (+ (- 0 b)
-        (sqrt (- (* b b) (* 4 a c))))
-     (* 2 a)))
+  (if (< (- (sqr b) (* 4 a c)) 0)
+      "the equation has no real root"
+      (/ (+ (- b)
+            (sqrt (- (sqr b) (* 4 a c))))
+         (* 2 a))))
 
 ; tests
 (quadratic-root 1 -2 1)
